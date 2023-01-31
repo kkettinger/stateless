@@ -1,4 +1,4 @@
-module github.com/qmuntal/stateless
+module github.com/kkettinger/stateless
 
 go 1.17
 
